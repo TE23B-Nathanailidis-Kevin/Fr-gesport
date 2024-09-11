@@ -1,0 +1,14 @@
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.exe
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.deps.json
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.runtimeconfig.json
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\bin\Debug\net8.0\Frågesport.pdb
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.AssemblyInfoInputs.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.AssemblyInfo.cs
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.csproj.CoreCompileInputs.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\refint\Frågesport.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.pdb
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\Frågesport.genruntimeconfig.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\Frågesport\Frågesport\obj\Debug\net8.0\ref\Frågesport.dll
